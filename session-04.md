@@ -5,12 +5,12 @@
 
 ### Newbie
 
-- [**Star Lovers**](../exercises/star-lovers-warmup )
+- [**Star Lovers**](https://github.com/Laboratoria/gym/tree/main/exercises/star-lovers-warmup )
 
 ### Beginner
 
-- [**SpongeBob MeMe**](../exercises/spongebob-meme)
+- [**SpongeBob MeMe**](https://github.com/Laboratoria/gym/tree/main/exercises/spongebob-meme)
 
 ### Intermediate
 
-- [**All Rotations of a String!**](../exercises/stop-gninnips-my-sdrow)
+- [**All Rotations of a String!**](https://github.com/Laboratoria/gym/tree/main/exercises/stop-gninnips-my-sdrow)

@@ -5,15 +5,15 @@
 
 ### Newbie
 
-- [**Plus Two**](../exercises/plus-two/README.md)
+- [**Plus Two**](https://github.com/Laboratoria/gym/tree/main/exercises/plus-two/README.md)
 
 ### Beginner
 
-- [**Job Matching**](../exercises/job-matching/README.md)
+- [**Job Matching**](https://github.com/Laboratoria/gym/tree/main/exercises/job-matching/README.md)
 
 ### Intermediate
 
-- [**Format words into a sentence**](../exercises/format-words/README.md) (tarea)
+- [**Format words into a sentence**](https://github.com/Laboratoria/gym/tree/main/exercises/format-words/README.md) (tarea)
 
 
 ## Kahoot en el checkout

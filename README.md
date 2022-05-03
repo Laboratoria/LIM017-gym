@@ -30,4 +30,6 @@ Estamos recopilando feedback con este [form](https://docs.google.com/forms/d/e/1
 
 - ### [Sesión 12](./session-12.md) (19/04)
 
-- ### [Sesión 13] (26/04)
+- ### [Sesión 13](./session-13.md)(26/04)
+
+- ### [Sesión 14](./session-14.md)(03/05)

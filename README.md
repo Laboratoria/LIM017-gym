@@ -2,8 +2,6 @@
 
 Los retos de **Gim LIM017**!
 
-Estamos recopilando feedback con este [form](https://docs.google.com/forms/d/e/1FAIpQLSc-jnvpZIpUFkbfiSQhdFH7Y2vXG9aZivO6mCebjQERffoZAA/viewform)
-
 ## Sesiones
 
 - ### [Sesión 01 (Kick-off)](./session-01.md) (01/02)

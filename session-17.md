@@ -12,7 +12,7 @@ Solo javascript!
 
 #### Beginner
 
-[Create Phone Number](https://github.com/Laboratoria/gym/blob/main/exercises/create-phone-number/README.md)
+[Create Phone Number](https://github.com/Laboratoria/gym/blob/main/exercises/create-phone-number/README.md)  
 [Who's online](https://github.com/Laboratoria/gym/blob/main/exercises/who-is-online/README.md)
 
 #### Intermediate

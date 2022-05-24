@@ -1,11 +1,20 @@
 # Session 17 (24.05)
 
-## Newbie  
-https://github.com/Laboratoria/gym/blob/main/exercises/swap-ends/README.md
+Solo javascript!
 
-## Beginner  
-phone number - https://github.com/Laboratoria/gym/blob/main/exercises/create-phone-number/README.md
-beg - who's online https://github.com/Laboratoria/gym/blob/main/exercises/who-is-online/README.md
+## Ejercicios
 
-## Intermediate
-https://github.com/Laboratoria/gym/tree/main/exercises/triangle
+### JavaScript
+
+#### Newbie  
+
+[swapEnds](https://github.com/Laboratoria/gym/blob/main/exercises/swap-ends/README.md)
+
+#### Beginner
+
+[Create Phone Number](https://github.com/Laboratoria/gym/blob/main/exercises/create-phone-number/README.md)
+[Who's online](https://github.com/Laboratoria/gym/blob/main/exercises/who-is-online/README.md)
+
+#### Intermediate
+
+[Triangle](https://github.com/Laboratoria/gym/tree/main/exercises/triangle)

@@ -14,3 +14,5 @@
 #### Newbie
 
 - [Lyft web](https://github.com/Laboratoria/gym/tree/main/exercises/lyft-web)
+
+Kahoot: https://create.kahoot.it/share/kahoot-sesion-16/8800c1c0-7449-4491-85f8-cc2451789091

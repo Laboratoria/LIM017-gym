@@ -39,3 +39,5 @@ Los retos de **Gim LIM017**!
 - ### [Sesión 18 (mock mock 1)](./session-18.md) (31/05)
 
 - ### [Sesión 19](./session-19.md) (07/06)
+
+- ### [Sesión 20 (mock mock 2)](./session-20.md) (14/06)

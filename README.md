@@ -40,4 +40,8 @@ Los retos de **Gim LIM017**!
 
 - ### [Sesión 19](./session-19.md) (07/06)
 
-- ### [Sesión 20 (mock mock 2)](./session-20.md) (14/06)
+- ### [Sesión 20 (mock mock 2)](./session-20.md) (14/06)  
+
+- ### [Sesión 21 Retro]() (21/06)  
+
+- ### [Sesión 22](./session-22.md) (05/07)
